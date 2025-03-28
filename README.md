@@ -59,8 +59,8 @@ meu_banco/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/IcaroRP/Sistema-Bancario-em-Python
+cd Sistema-Bancario-em-Python
 ```
 
 2. Execute o programa principal:
